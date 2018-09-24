@@ -2,10 +2,11 @@ import moment from 'moment';
 import fs from 'fs';
 import uuid from 'uuid/v1';
 const srcFile = './penguins_season_2018-2019.txt';
-const outFile = './penguins_season_2018-2019.ics';
+const outFile = './penguins_season_2018-2019_new.ics';
 let allElements = fs.readFileSync(srcFile, 'utf8').split('\n');
 let outData = [];
-const dateParseString = 'dddd DD MMMM YYYY HH:mm';
+// const dateParseString = 'dddd DD MMMM YYYY HH:mm';
+const dateParseString = 'DD MM YYYY HH:mm';
 allElements.forEach(dt => {
   if (dt.includes('originalDate: ')) {
     dt = dt.replace('originalDate: ', '')
