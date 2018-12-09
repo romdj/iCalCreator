@@ -1,0 +1,1079 @@
+[
+  {
+    "date": "zaterdag 29 september 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Zoetermeer Panters"
+      }
+    ]
+  },
+  {
+    "date": "zondag 30 september 2018",
+    "games": {
+      "game": {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Amstel Tijgers Amsterdam"
+      }
+    }
+  },
+  {
+    "date": "vrijdag  5 oktober 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Smoke Eaters Geleen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  6 oktober 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Tilburg Trappers"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      }
+    ]
+  },
+  {
+    "date": "zondag  7 oktober 2018",
+    "games": [
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "GIJS Groningen"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag 13 oktober 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    ]
+  },
+  {
+    "date": "zondag 14 oktober 2018",
+    "games": [
+      {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Nijmegen Devils"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag 19 oktober 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Eindhoven Kemphanen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 20 oktober 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "18:00",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Hijs Hokij Den Haag"
+      }
+    ]
+  },
+  {
+    "date": "zondag 21 oktober 2018",
+    "games": {
+      "game": {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Tilburg Trappers"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 27 oktober 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "UNIS Flyers Heerenveen"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Tilburg Trappers"
+      }
+    ]
+  },
+  {
+    "date": "zondag 28 oktober 2018",
+    "games": {
+      "game": {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Zoetermeer Panters"
+      }
+    }
+  },
+  {
+    "date": "vrijdag  2 november 2018",
+    "games": {
+      "game": {
+        "time": "20:30",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "GIJS Groningen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  3 november 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "20:15",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Dordrecht Lions"
+      }
+    ]
+  },
+  {
+    "date": "zondag  4 november 2018",
+    "games": [
+      {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Hijs Hokij Den Haag"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag  9 november 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Nijmegen Devils"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 10 november 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Tilburg Trappers"
+      }
+    ]
+  },
+  {
+    "date": "zondag 11 november 2018",
+    "games": {
+      "game": {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    }
+  },
+  {
+    "date": "vrijdag 16 november 2018",
+    "games": {
+      "game": {
+        "time": "20:30",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Eindhoven Kemphanen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 17 november 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      }
+    ]
+  },
+  {
+    "date": "zondag 18 november 2018",
+    "games": [
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Zoetermeer Panters"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag 23 november 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 24 november 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Smoke Eaters Geleen"
+      }
+    ]
+  },
+  {
+    "date": "zondag 25 november 2018",
+    "games": [
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Tilburg Trappers"
+      },
+      {
+        "time": "17:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Nijmegen Devils"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag 30 november 2018",
+    "games": {
+      "game": {
+        "time": "20:30",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Dordrecht Lions"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  1 december 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Hijs Hokij Den Haag"
+      }
+    ]
+  },
+  {
+    "date": "zondag  2 december 2018",
+    "games": {
+      "game": {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      }
+    }
+  },
+  {
+    "date": "vrijdag  7 december 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Tilburg Trappers"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  8 december 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "GIJS Groningen"
+      }
+    ]
+  },
+  {
+    "date": "zondag  9 december 2018",
+    "games": [
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "UNIS Flyers Heerenveen"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Capitals Leeuwarden"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag 14 december 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "GIJS Groningen"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 15 december 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Smoke Eaters Geleen"
+      }
+    ]
+  },
+  {
+    "date": "zondag 16 december 2018",
+    "games": [
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Tilburg Trappers"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag 22 december 2018",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Amstel Tijgers Amsterdam"
+      }
+    ]
+  },
+  {
+    "date": "zondag 23 december 2018",
+    "games": {
+      "game": {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    }
+  },
+  {
+    "date": "vrijdag 28 december 2018",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 29 december 2018",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Tilburg Trappers"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Eindhoven Kemphanen"
+      }
+    ]
+  },
+  {
+    "date": "zondag 30 december 2018",
+    "games": [
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Smoke Eaters Geleen"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag  4 januari 2019",
+    "games": {
+      "game": {
+        "time": "20:30",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Nijmegen Devils"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  5 januari 2019",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "UNIS Flyers Heerenveen"
+      },
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Capitals Leeuwarden"
+      }
+    ]
+  },
+  {
+    "date": "zondag  6 januari 2019",
+    "games": {
+      "game": {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Dordrecht Lions"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 12 januari 2019",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "20:15",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Hijs Hokij Den Haag"
+      }
+    ]
+  },
+  {
+    "date": "zondag 13 januari 2019",
+    "games": [
+      {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Eindhoven Kemphanen"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag 19 januari 2019",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Tilburg Trappers"
+      },
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "UNIS Flyers Heerenveen"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Capitals Leeuwarden"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Nijmegen Devils"
+      }
+    ]
+  },
+  {
+    "date": "zondag 20 januari 2019",
+    "games": {
+      "game": {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Amstel Tijgers Amsterdam"
+      }
+    }
+  },
+  {
+    "date": "zaterdag 26 januari 2019",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Smoke Eaters Geleen"
+      }
+    ]
+  },
+  {
+    "date": "zondag 27 januari 2019",
+    "games": [
+      {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      },
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "Dordrecht Lions"
+      }
+    ]
+  },
+  {
+    "date": "vrijdag  1 februari 2019",
+    "games": {
+      "game": {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Amstel Tijgers Amsterdam"
+      }
+    }
+  },
+  {
+    "date": "zaterdag  2 februari 2019",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Tilburg Trappers"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosh",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    ]
+  },
+  {
+    "date": "zondag  3 februari 2019",
+    "games": {
+      "game": {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "Capitals Leeuwarden"
+      }
+    }
+  },
+  {
+    "date": "vrijdag  8 februari 2019",
+    "games": [
+      {
+        "time": "20:30",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:45",
+        "rink": "Zoetermeer",
+        "home": "Zoetermeer Panters",
+        "visitor": "Capitals Leeuwarden"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag  9 februari 2019",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Zoetermeer Panters"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Dordrecht Lions"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Red Eagles 's-Hertogenbosch"
+      }
+    ]
+  },
+  {
+    "date": "zondag 10 februari 2019",
+    "games": [
+      {
+        "time": "17:15",
+        "rink": "Nijmegen",
+        "home": "Nijmegen Devils",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "18:15",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Eindhoven Kemphanen"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag 16 februari 2019",
+    "games": [
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "UNIS Flyers Heerenveen"
+      },
+      {
+        "time": "20:00",
+        "rink": "Eindhoven",
+        "home": "Eindhoven Kemphanen",
+        "visitor": "Smoke Eaters Geleen"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:15",
+        "rink": "Dordrecht",
+        "home": "Dordrecht Lions",
+        "visitor": "Tilburg Trappers"
+      }
+    ]
+  },
+  {
+    "date": "zondag 17 februari 2019",
+    "games": [
+      {
+        "time": "16:45",
+        "rink": "Den Haag",
+        "home": "Hijs Hokij Den Haag",
+        "visitor": "GIJS Groningen"
+      },
+      {
+        "time": "19:15",
+        "rink": "Amsterdam",
+        "home": "Amstel Tijgers Amsterdam",
+        "visitor": "UNIS Flyers Heerenveen"
+      }
+    ]
+  },
+  {
+    "date": "zaterdag 23 februari 2019",
+    "games": [
+      {
+        "time": "16:30",
+        "rink": "Heerenveen",
+        "home": "UNIS Flyers Heerenveen",
+        "visitor": "Nijmegen Devils"
+      },
+      {
+        "time": "20:00",
+        "rink": "Leeuwarden",
+        "home": "Capitals Leeuwarden",
+        "visitor": "Amstel Tijgers Amsterdam"
+      },
+      {
+        "time": "20:00",
+        "rink": "Geleen",
+        "home": "Smoke Eaters Geleen",
+        "visitor": "Hijs Hokij Den Haag"
+      },
+      {
+        "time": "20:15",
+        "rink": "'s-Hertogenbosch",
+        "home": "Red Eagles 's-Hertogenbosch",
+        "visitor": "Eindhoven Kemphanen"
+      },
+      {
+        "time": "20:30",
+        "rink": "Groningen",
+        "home": "GIJS Groningen",
+        "visitor": "Dordrecht Lions"
+      }
+    ]
+  },
+  {
+    "date": "zondag 24 februari 2019",
+    "games": {
+      "game": {
+        "time": "15:00",
+        "rink": "Tilburg",
+        "home": "Tilburg Trappers",
+        "visitor": "Zoetermeer Panters"
+      }
+    }
+  }
+]
