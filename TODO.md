@@ -5,5 +5,11 @@
 - Replicate sourcePath in Destination
 - n MicroService(s) / sourcePath
 
-Super-long shot!
+
+## long shot
+- Deploy into some env (ec2, lambda)
+- implement CI/CD pipeline
+
+## Super-long shot!
 - integrate as lambda into fn-project? will see :)
+
