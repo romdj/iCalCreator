@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+BEGIN:VEVENT
+DTSTAMP:20190103T000000Z
+DTSTART;VALUE=DATE:20190103
+DESCRIPTION: Quadrantids Meteor Shower. The Quadrantids is an above average shower, with up to 40 meteors per hour at its peak. It is thought to be produced by dust grains left behind by an extinct comet known as 2003 EH1, which was discovered in 2003. The shower runs annually from January 1
+SUMMARY: Quadrantids Meteor Shower
+UID:6ecf1150-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190106T000000Z
+DTSTART;VALUE=DATE:20190106
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 01:28 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf3860-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190106T000000Z
+DTSTART;VALUE=DATE:20190106
+DESCRIPTION: Venus at Greatest Western Elongation. The planet Venus reaches greatest eastern elongation of 47 degrees from the Sun. This is the best time to view Venus since it will be at its highest point above the horizon in the morning sky. Look for the bright planet in the eastern sky before sunrise.
+SUMMARY: Venus at Greatest Western Elongation
+UID:6ecf3861-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190106T000000Z
+DTSTART;VALUE=DATE:20190106
+DESCRIPTION: Partial Solar Eclipse. A partial solar eclipse occurs when the Moon covers only a part of the Sun, sometimes resembling a bite taken out of a cookie. A partial solar eclipse can only be safely observed with a special solar filter or by looking at the Sun's reflection. The partial eclipse will be visible in parts of eastern Asia and the northern Pacific Ocean. It will be best seen from northeastern Russia with 62% coverage.  (NASA Map and Eclipse Information)
+SUMMARY: Partial Solar Eclipse
+UID:6ecf3862-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190102T000000Z
+DTSTART;VALUE=DATE:20190102
+DESCRIPTION: Full Moon, Supermoon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 05:16 UTC. This full moon was known by early Native American tribes as the Full Wolf Moon because this was the time of year when hungry wolf packs howled outside their camps. This moon has also been know as the Old Moon and the Moon After Yule. This is also the first of three supermoons for 2019. The Moon will be at its closest approach to the Earth and may look slightly larger and brighter than usual.
+SUMMARY: Full Moon, Supermoon
+UID:6ecf3863-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190102T000000Z
+DTSTART;VALUE=DATE:20190102
+DESCRIPTION: Conjunction of Venus and Jupiter. A conjunction of Venus and Jupiter will be visible on January 22. The two bright planets will be visible within 2.4 degrees of each other in the early morning sky. Look for this impressive sight in the east just before sunrise.
+SUMMARY: Conjunction of Venus and Jupiter
+UID:6ecf3864-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190120T000000Z
+DTSTART;VALUE=DATE:20190120
+DESCRIPTION: Total Lunar Eclipse. A total lunar eclipse occurs when the Moon passes completely through the Earth's dark shadow, or umbra. During this type of eclipse, the Moon will gradually get darker and then take on a rusty or blood red color. The eclipse will be visible throughout most of North America, South America, the eastern Pacific Ocean, western Atlantic Ocean, extreme western Europe, and extreme western Africa.  (NASA Map and Eclipse Information)
+SUMMARY: Total Lunar Eclipse
+UID:6ecf3865-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190204T000000Z
+DTSTART;VALUE=DATE:20190204
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 21:03 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf3866-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190201T000000Z
+DTSTART;VALUE=DATE:20190201
+DESCRIPTION: Full Moon, Supermoon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 15:53 UTC. This full moon was known by early Native American tribes as the Full Snow Moon because the heaviest snows usually fell during this time of the year. Since hunting is difficult, this moon has also been known by some tribes as the Full Hunger Moon, since the harsh weather made hunting difficult. This is also the second of three supermoons for 2019. The Moon will be at its closest approach to the Earth and may look slightly larger and brighter than usual.
+SUMMARY: Full Moon, Supermoon
+UID:6ecf3867-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190202T000000Z
+DTSTART;VALUE=DATE:20190202
+DESCRIPTION: Mercury at Greatest Eastern Elongation. The planet Mercury reaches greatest eastern elongation of 18.1 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the evening sky. Look for the planet low in the western sky just after sunset.
+SUMMARY: Mercury at Greatest Eastern Elongation
+UID:6ecf3868-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190306T000000Z
+DTSTART;VALUE=DATE:20190306
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 16:04 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf3869-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190302T000000Z
+DTSTART;VALUE=DATE:20190302
+DESCRIPTION: March Equinox. The March equinox occurs at 21:58 UTC. The Sun will shine directly on the equator and there will be nearly equal amounts of day and night throughout the world. This is also the first day of spring (vernal equinox) in the Northern Hemisphere and the first day of fall (autumnal equinox) in the Southern Hemisphere.
+SUMMARY: March Equinox
+UID:6ecf386a-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190302T000000Z
+DTSTART;VALUE=DATE:20190302
+DESCRIPTION: Full Moon, Supermoon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 01:43 UTC. This full moon was known by early Native American tribes as the Full Worm Moon because this was the time of year when the ground would begin to soften and the earthworms would reappear. This moon has also been known as the Full Crow Moon, the Full Crust Moon, the Full Sap Moon, and the Lenten Moon. This is also the last of three supermoons for 2019. The Moon will be at its closest approach to the Earth and may look slightly larger and brighter than usual.
+SUMMARY: Full Moon, Supermoon
+UID:6ecf5f70-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190405T000000Z
+DTSTART;VALUE=DATE:20190405
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 08:51 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f71-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T000000Z
+DTSTART;VALUE=DATE:20190401
+DESCRIPTION: Mercury at Greatest Western Elongation. The planet Mercury reaches greatest western elongation of 27.7 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the morning sky. Look for the planet low in the eastern sky just before sunrise.
+SUMMARY: Mercury at Greatest Western Elongation
+UID:6ecf5f72-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T000000Z
+DTSTART;VALUE=DATE:20190401
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 11:12 UTC. This full moon was known by early Native American tribes as the Full Pink Moon because it marked the appearance of the moss pink, or wild ground phlox, which is one of the first spring flowers. This moon has also been known as the Sprouting Grass Moon, the Growing Moon, and the Egg Moon. Many coastal tribes called it the Full Fish Moon because this was the time that the shad swam upstream to spawn.
+SUMMARY: Full Moon
+UID:6ecf5f73-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190422T000000Z
+DTSTART;VALUE=DATE:20190422
+DESCRIPTION: Lyrids Meteor Shower. The Lyrids is an average shower, usually producing about 20 meteors per hour at its peak. It is produced by dust particles left behind by comet C/1861 G1 Thatcher, which was discovered in 1861. The shower runs annually from April 16
+SUMMARY: Lyrids Meteor Shower
+UID:6ecf5f74-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190504T000000Z
+DTSTART;VALUE=DATE:20190504
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 22:46 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f75-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190506T000000Z
+DTSTART;VALUE=DATE:20190506
+DESCRIPTION: Eta Aquarids Meteor Shower. The Eta Aquarids is an above average shower, capable of producing up to 60 meteors per hour at its peak. Most of the activity is seen in the Southern Hemisphere. In the Northern Hemisphere, the rate can reach about 30 meteors per hour. It is produced by dust particles left behind by comet Halley, which has known and observed since ancient times. The shower runs annually from April 19 to May 28. It peaks this year on the night of May 6 and the morning of the May 7. The thin crescent moon will set early in the evening leaving dark skies for what should be a good show. Best viewing will be from a dark location after midnight. Meteors will radiate from the constellation Aquarius, but can appear anywhere in the sky.
+SUMMARY: Eta Aquarids Meteor Shower
+UID:6ecf5f76-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190501T000000Z
+DTSTART;VALUE=DATE:20190501
+DESCRIPTION: Full Moon, Blue Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 21:11 UTC. This full moon was known by early Native American tribes as the Full Flower Moon because this was the time of year when spring flowers appeared in abundance. This moon has also been known as the Full Corn Planting Moon and the Milk Moon. Since this is the third of four full moons in this season, it is known as a blue moon. This rare calendar event only happens once every few years, giving rise to the term, “once in a blue moon.” There are normally only three full moons in each season of the year. But since full moons occur every 29.53 days, occasionally a season will contain 4 full moons. The extra full moon of the season is known as a blue moon. Blue moons occur on average once every 2.7 years.
+SUMMARY: Full Moon, Blue Moon
+UID:6ecf5f77-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190603T000000Z
+DTSTART;VALUE=DATE:20190603
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 10:02 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f78-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190601T000000Z
+DTSTART;VALUE=DATE:20190601
+DESCRIPTION: Jupiter at Opposition. The giant planet will be at its closest approach to Earth and its face will be fully illuminated by the Sun. It will be brighter than any other time of the year and will be visible all night long. This is the best time to view and photograph Jupiter and its moons. A medium
+SUMMARY: Jupiter at Opposition
+UID:6ecf5f79-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190601T000000Z
+DTSTART;VALUE=DATE:20190601
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 08:31 UTC. This full moon was known by early Native American tribes as the Full Strawberry Moon because it signaled the time of year to gather ripening fruit. It also coincides with the peak of the strawberry harvesting season. This moon has also been known as the Full Rose Moon and the Full Honey Moon.
+SUMMARY: Full Moon
+UID:6ecf5f7a-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190602T000000Z
+DTSTART;VALUE=DATE:20190602
+DESCRIPTION: June Solstice. The June solstice occurs at 15:54 UTC. The North Pole of the earth will be tilted toward the Sun, which will have reached its northernmost position in the sky and will be directly over the Tropic of Cancer at 23.44 degrees north latitude. This is the first day of summer (summer solstice) in the Northern Hemisphere and the first day of winter (winter solstice) in the Southern Hemisphere.
+SUMMARY: June Solstice
+UID:6ecf5f7b-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190602T000000Z
+DTSTART;VALUE=DATE:20190602
+DESCRIPTION: Mercury at Greatest Eastern Elongation. The planet Mercury reaches greatest eastern elongation of 25.2 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the evening sky. Look for the planet low in the western sky just after sunset.
+SUMMARY: Mercury at Greatest Eastern Elongation
+UID:6ecf5f7c-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190702T000000Z
+DTSTART;VALUE=DATE:20190702
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 19:16 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f7d-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190702T000000Z
+DTSTART;VALUE=DATE:20190702
+DESCRIPTION: Total Solar Eclipse. A total solar eclipse occurs when the moon completely blocks the Sun, revealing the Sun's beautiful outer atmosphere known as the corona. The path of totality will only be visible in parts of the southern pacific Ocean, central Chile, and central Argentina. A partial eclipse will be visible in most parts of the southern Pacific Ocean and western South America. (NASA Map and Eclipse Information)  (NASA Interactive Google Map)
+SUMMARY: Total Solar Eclipse
+UID:6ecf5f7e-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190709T000000Z
+DTSTART;VALUE=DATE:20190709
+DESCRIPTION: Saturn at Opposition. The ringed planet will be at its closest approach to Earth and its face will be fully illuminated by the Sun. It will be brighter than any other time of the year and will be visible all night long. This is the best time to view and photograph Saturn and its moons. A medium
+SUMMARY: Saturn at Opposition
+UID:6ecf5f7f-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190701T000000Z
+DTSTART;VALUE=DATE:20190701
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 21:38 UTC. This full moon was known by early Native American tribes as the Full Buck Moon because the male buck deer would begin to grow their new antlers at this time of year. This moon has also been known as the Full Thunder Moon and the Full Hay Moon.
+SUMMARY: Full Moon
+UID:6ecf5f80-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190701T000000Z
+DTSTART;VALUE=DATE:20190701
+DESCRIPTION: Partial Lunar Eclipse. A partial lunar eclipse occurs when the Moon passes through the Earth's partial shadow, or penumbra, and only a portion of it passes through the darkest shadow, or umbra. During this type of eclipse a part of the Moon will darken as it moves through the Earth's shadow. The eclipse will be visible throughout most of Europe, Africa, central Asia, and the Indian Ocean. (NASA Map and Eclipse Information)
+SUMMARY: Partial Lunar Eclipse
+UID:6ecf5f81-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190728T000000Z
+DTSTART;VALUE=DATE:20190728
+DESCRIPTION: Delta Aquarids Meteor Shower. The Delta Aquarids is an average shower that can produce up to 20 meteors per hour at its peak. It is produced by debris left behind by comets Marsden and Kracht. The shower runs annually from July 12 to August 23. It peaks this year on the night of July 28 and morning of July 29. The waning crescent moon will not be too much of a problem this year. The skies should be dark enough for what could be a good show. Best viewing will be from a dark location after midnight. Meteors will radiate from the constellation Aquarius, but can appear anywhere in the sky.
+SUMMARY: Delta Aquarids Meteor Shower
+UID:6ecf5f82-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190801T000000Z
+DTSTART;VALUE=DATE:20190801
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 03:12 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f83-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190809T000000Z
+DTSTART;VALUE=DATE:20190809
+DESCRIPTION: Mercury at Greatest Western Elongation. The planet Mercury reaches greatest western elongation of 19.0 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the morning sky. Look for the planet low in the eastern sky just before sunrise.
+SUMMARY: Mercury at Greatest Western Elongation
+UID:6ecf5f84-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190812T000000Z
+DTSTART;VALUE=DATE:20190812
+DESCRIPTION: Perseids Meteor Shower. The Perseids is one of the best meteor showers to observe, producing up to 60 meteors per hour at its peak. It is produced by comet Swift
+SUMMARY: Perseids Meteor Shower
+UID:6ecf5f85-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190801T000000Z
+DTSTART;VALUE=DATE:20190801
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 12:30 UTC. This full moon was known by early Native American tribes as the Full Sturgeon Moon because the large sturgeon fish of the Great Lakes and other major lakes were more easily caught at this time of year. This moon has also been known as the Green Corn Moon and the Grain Moon.
+SUMMARY: Full Moon
+UID:6ecf5f86-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190803T000000Z
+DTSTART;VALUE=DATE:20190803
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 10:37 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f87-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190909T000000Z
+DTSTART;VALUE=DATE:20190909
+DESCRIPTION: Neptune at Opposition. The blue giant planet will be at its closest approach to Earth and its face will be fully illuminated by the Sun. It will be brighter than any other time of the year and will be visible all night long. This is the best time to view and photograph Neptune. Due to its extreme distance from Earth, it will only appear as a tiny blue dot in all but the most powerful telescopes.
+SUMMARY: Neptune at Opposition
+UID:6ecf5f88-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190901T000000Z
+DTSTART;VALUE=DATE:20190901
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 04:34 UTC. This full moon was known by early Native American tribes as the Full Corn Moon because the corn is harvested around this time of year. This moon is also known as the Harvest Moon. The Harvest Moon is the full moon that occurs closest to the September equinox each year.
+SUMMARY: Full Moon
+UID:6ecf5f89-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190902T000000Z
+DTSTART;VALUE=DATE:20190902
+DESCRIPTION: September Equinox. The September equinox occurs at 07:50 UTC. The Sun will shine directly on the equator and there will be nearly equal amounts of day and night throughout the world. This is also the first day of fall (autumnal equinox) in the Northern Hemisphere and the first day of spring (vernal equinox) in the Southern Hemisphere.
+SUMMARY: September Equinox
+UID:6ecf5f8a-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190902T000000Z
+DTSTART;VALUE=DATE:20190902
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 18:26 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f8b-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191008T000000Z
+DTSTART;VALUE=DATE:20191008
+DESCRIPTION: Draconids Meteor Shower. The Draconids is a minor meteor shower producing only about 10 meteors per hour. It is produced by dust grains left behind by comet 21P Giacobini
+SUMMARY: Draconids Meteor Shower
+UID:6ecf5f8c-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191001T000000Z
+DTSTART;VALUE=DATE:20191001
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 21:09 UTC. This full moon was known by early Native American tribes as the Full Hunters Moon because at this time of year the leaves are falling and the game is fat and ready to hunt. This moon has also been known as the Travel Moon and the Blood Moon.
+SUMMARY: Full Moon
+UID:6ecf5f8d-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191002T000000Z
+DTSTART;VALUE=DATE:20191002
+DESCRIPTION: Mercury at Greatest Eastern Elongation. The planet Mercury reaches greatest eastern elongation of 24.6 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the evening sky. Look for the planet low in the western sky just after sunset.
+SUMMARY: Mercury at Greatest Eastern Elongation
+UID:6ecf5f8e-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191021T000000Z
+DTSTART;VALUE=DATE:20191021
+DESCRIPTION: Orionids Meteor Shower. The Orionids is an average shower producing up to 20 meteors per hour at its peak. It is produced by dust grains left behind by comet Halley, which has been known and observed since ancient times. The shower runs annually from October 2 to November 7. It peaks this year on the night of October 21 and the morning of October 22. The second quarter moon will block some of the fainter meteors this year, but the Orionids tend to be fairly bright so it could still be a good show. Best viewing will be from a dark location after midnight. Meteors will radiate from the constellation Orion, but can appear anywhere in the sky.
+SUMMARY: Orionids Meteor Shower
+UID:6ecf5f8f-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191002T000000Z
+DTSTART;VALUE=DATE:20191002
+DESCRIPTION: Uranus at Opposition. The blue
+SUMMARY: Uranus at Opposition
+UID:6ecf5f90-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191002T000000Z
+DTSTART;VALUE=DATE:20191002
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 03:39 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f91-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191105T000000Z
+DTSTART;VALUE=DATE:20191105
+DESCRIPTION: Taurids Meteor Shower. The Taurids is a long
+SUMMARY: Taurids Meteor Shower
+UID:6ecf5f92-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191101T000000Z
+DTSTART;VALUE=DATE:20191101
+DESCRIPTION: Rare Transit of Mercury Across the Sun. The planet Mercury will move directly between the Earth and the Sun. Viewers with telescopes and approved solar filters will be able to observe the dark disk of the planet Mercury moving across the face of the Sun. This is an extremely rare event that occurs only once every few years. The next transit of Mercury will not take place until 2039. This transit will be visible throughout all of South America and Central America, and parts of North America, Mexico, Europe, the Middle East, and Africa. The best place to view this event in its entirety will be the eastern United States, Central America, and South America. (Transit Visibility Map and Information)
+SUMMARY: Rare Transit of Mercury Across the Sun
+UID:6ecf5f93-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191101T000000Z
+DTSTART;VALUE=DATE:20191101
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 13:36 UTC. This full moon was known by early Native American tribes as the Full Beaver Moon because this was the time of year to set the beaver traps before the swamps and rivers froze. It has also been known as the Frosty Moon and the Hunter's Moon.
+SUMMARY: Full Moon
+UID:6ecf5f94-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191117T000000Z
+DTSTART;VALUE=DATE:20191117
+DESCRIPTION: Leonids Meteor Shower. The Leonids is an average shower, producing up to 15 meteors per hour at its peak. This shower is unique in that it has a cyclonic peak about every 33 years where hundreds of meteors per hour can be seen. That last of these occurred in 2001. The Leonids is produced by dust grains left behind by comet Tempel
+SUMMARY: Leonids Meteor Shower
+UID:6ecf5f95-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191102T000000Z
+DTSTART;VALUE=DATE:20191102
+DESCRIPTION: Conjunction of Venus and Jupiter. A conjunction of Venus and Jupiter will be visible on November 24. The two bright planets will be visible within 1.4 degrees of each other in the evening sky. Look for this impressive sight in the western sky just after sunset.
+SUMMARY: Conjunction of Venus and Jupiter
+UID:6ecf5f96-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191102T000000Z
+DTSTART;VALUE=DATE:20191102
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 15:06 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf5f97-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191102T000000Z
+DTSTART;VALUE=DATE:20191102
+DESCRIPTION: Mercury at Greatest Western Elongation. The planet Mercury reaches greatest western elongation of 20.1 degrees from the Sun. This is the best time to view Mercury since it will be at its highest point above the horizon in the morning sky. Look for the planet low in the eastern sky just before sunrise.
+SUMMARY: Mercury at Greatest Western Elongation
+UID:6ecf5f98-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191201T000000Z
+DTSTART;VALUE=DATE:20191201
+DESCRIPTION: Full Moon. The Moon will be located on the opposite side of the Earth as the Sun and its face will be will be fully illuminated. This phase occurs at 05:14 UTC. This full moon was known by early Native American tribes as the Full Cold Moon because this is the time of year when the cold winter air settles in and the nights become long and dark. This moon has also been known as the Full Long Nights Moon and the Moon Before Yule.
+SUMMARY: Full Moon
+UID:6ecf5f99-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191213T000000Z
+DTSTART;VALUE=DATE:20191213
+DESCRIPTION: Geminids Meteor Shower. The Geminids is the king of the meteor showers. It is considered by many to be the best shower in the heavens, producing up to 120 multicolored meteors per hour at its peak. It is produced by debris left behind by an asteroid known as 3200 Phaethon, which was discovered in 1982. The shower runs annually from December 7
+SUMMARY: Geminids Meteor Shower
+UID:6ecf5f9a-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191202T000000Z
+DTSTART;VALUE=DATE:20191202
+DESCRIPTION: December Solstice. The December solstice occurs at 04:19 UTC. The South Pole of the earth will be tilted toward the Sun, which will have reached its southernmost position in the sky and will be directly over the Tropic of Capricorn at 23.44 degrees south latitude. This is the first day of winter (winter solstice) in the Northern Hemisphere and the first day of summer (summer solstice) in the Southern Hemisphere.
+SUMMARY: December Solstice
+UID:6ecf8680-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191221T000000Z
+DTSTART;VALUE=DATE:20191221
+DESCRIPTION: Ursids Meteor Shower. The Ursids is a minor meteor shower producing about 5
+SUMMARY: Ursids Meteor Shower
+UID:6ecf8681-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191202T000000Z
+DTSTART;VALUE=DATE:20191202
+DESCRIPTION: New Moon. The Moon will located on the same side of the Earth as the Sun and will not be visible in the night sky. This phase occurs at 05:15 UTC. This is the best time of the month to observe faint objects such as galaxies and star clusters because there is no moonlight to interfere.
+SUMMARY: New Moon
+UID:6ecf8682-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20191202T000000Z
+DTSTART;VALUE=DATE:20191202
+DESCRIPTION: Annular Solar Eclipse. An annular solar eclipse occurs when the Moon is too far away from the Earth to completely cover the Sun. This results in a ring of light around the darkened Moon. The Sun's corona is not visible during an annular eclipse. The path of of the eclipse will begin in Saudi Arabia and move east through southern India, northern Sri Lanka, parts of the Indian Ocean, and Indonesia before ending in the Pacific Ocean. A partial eclipse will be visible throughout most of Asia and northern Australia. (NASA Map and Eclipse Information) (NASA Interactive Google Map)
+SUMMARY: Annular Solar Eclipse
+UID:6ecf8683-4cb0-11e9-9e05-9bcd4c22a72f
+END:VEVENT
+END:VCALENDAR

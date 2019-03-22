@@ -1,8 +1,8 @@
 {
   "name": "iCalCreator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.1.0",
+  "description": "iCalendar Creation Scripts",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10",
     "moment": "^2.22.2",
     "uuid": "^3.3.2"
   }
